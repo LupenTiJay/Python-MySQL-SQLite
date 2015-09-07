@@ -1,1 +1,7 @@
-THIS IS A GIT TEST
+Master.py is resposible for controlling the other scripts in sequential order to get the job done.
+
+CreateTable.py
+  This will create a table, if there already exists a table, an exception will be thrown
+EmptyTable.py
+  Self-Explanatory
+  
